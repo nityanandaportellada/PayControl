@@ -1,4 +1,3 @@
-# PayControl
 
 # PayControl - Sistema de Controle de Contas a Pagar
 
